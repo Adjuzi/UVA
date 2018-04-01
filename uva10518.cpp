@@ -30,7 +30,7 @@ int main()
 
         cout << "Case " << cases << ": " << n << " " << b << " " << series[n%counter] << endl;
         
-    }
+    } 
 
     return 0;
 }
